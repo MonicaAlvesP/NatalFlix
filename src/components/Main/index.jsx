@@ -21,10 +21,6 @@ export const Main = () => {
     <main className={s.main}>
       <section className={s.assistir}>
         <p>Continuar Assistindo</p>
-        <div className={s.buttonsControls}>
-          <FaArrowCircleLeft />
-          <FaArrowCircleRight />
-        </div>
       </section>
 
       <section className={s.filmes}>
